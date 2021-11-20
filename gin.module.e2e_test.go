@@ -7,7 +7,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/onichandame/gim"
-	gimgin "github.com/onichandame/gim/pkg/gin"
+	gimgin "github.com/onichandame/gim-gin"
 	"github.com/stretchr/testify/assert"
 )
 
